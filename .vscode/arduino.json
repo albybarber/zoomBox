@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:micro",
+    "programmer": "Arduino as ISP",
+    "port": "/dev/tty.usbmodemHIDPC1",
+    "sketch": "zoombox.ino"
+}
