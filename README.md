@@ -35,11 +35,11 @@ Sketch
 
 My Project
 ----------
-I have also included a photo of my project.
+I have also included a couple of photos of my project.
 ![alt tag](https://raw.github.com/albybarber/zoombox/master/albybarberproject1.jpg)
 ![alt tag](https://raw.github.com/albybarber/zoombox/master/albybarberproject2.jpg)
 
 Let me know how your project turns out!
 
-Alby Babrber
+Alby Barber
 Twitter: @albybarber
